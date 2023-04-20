@@ -10,7 +10,7 @@ By rolling virtual dice, the app generates random numbers ranging from 1 to 6, a
 ## Preview
 
 <p float="left">
-  <img src="Images/0.jpg" width="33%" />
-  <img src="Images/1.jpg" width="33%" />
-  <img src="Images/2.jpg" width="33%" />
+  <img src="Images/0.jpg" width="32%" />
+  <img src="Images/1.jpg" width="32%" />
+  <img src="Images/2.jpg" width="32%" />
 </p>
